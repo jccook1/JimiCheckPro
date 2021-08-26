@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".ProduceUpdateIndexActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO"/>
+    <Button
+        android:id="@+id/btn_updateVsitooR1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO R1"
+        android:onClick="gotoActivity"/>
+    <Button
+        android:id="@+id/btn_updateVsitooR2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO R2"
+        android:onClick="gotoActivity"/>
+    <Button
+        android:id="@+id/btn_updateVsitooS2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO S2"
+        android:onClick="gotoActivity"/>
+    <Button
+        android:id="@+id/btn_updateVsitooS3Pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO S3 Pro"
+        android:onClick="gotoActivity"/>
+    <Button
+        android:id="@+id/btn_updateVsitooS6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO S6"
+        android:onClick="gotoActivity"/>
+    <Button
+        android:id="@+id/btn_updateVsitooT1Pro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO T1 Pro"
+        android:onClick="gotoActivity"/>
+
+    <Button
+        android:id="@+id/btn_updateVsitooV1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VSITOO V1"
+        android:onClick="gotoActivity"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VANOW"/>
+
+    <Button
+        android:id="@+id/btn_updateVanowV1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VANOW V1"
+        android:onClick="gotoActivity"/>
+    <Button
+        android:id="@+id/btn_updateVanowV2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VANOW V2"
+        android:onClick="gotoActivity"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="iPorket"/>
+    <Button
+        android:id="@+id/btn_updateIPorketM1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="iPorket M1"
+        android:onClick="gotoActivity"/>
+</LinearLayout>

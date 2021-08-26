@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jimi Check Pro</string>
+    <string name="r1_btn_name">Ble测试</string>
+    <string name="title_activity_reset_s2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
